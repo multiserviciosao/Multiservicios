@@ -1,0 +1,121 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Webmultiservicios.html" resolutions="1x" timestamp="1492707897213">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_principal.css" crc="366245031" ref="index:reparamos:contactanos:remodelamos:diseñamos:construimos"/>
+    <file name="nomq_preview_master_principal.css" crc="3824530138" ref="index:reparamos:contactanos:remodelamos:diseñamos:construimos"/>
+    <file name="index.css" crc="3923083826" ref="index"/>
+    <file name="nomq_index.css" crc="4030594002" ref="index"/>
+    <file name="reparamos.css" crc="379462772" ref="reparamos"/>
+    <file name="nomq_reparamos.css" crc="111541130" ref="reparamos"/>
+    <file name="contactanos.css" crc="3760252191" ref="contactanos"/>
+    <file name="nomq_contactanos.css" crc="4156597565" ref="contactanos"/>
+    <file name="remodelamos.css" crc="3877531461" ref="remodelamos"/>
+    <file name="nomq_remodelamos.css" crc="3968424301" ref="remodelamos"/>
+    <file name="dise_amos.css" crc="237393414" ref="diseñamos"/>
+    <file name="nomq_dise_amos.css" crc="231176115" ref="diseñamos"/>
+    <file name="construimos.css" crc="4066912501" ref="construimos"/>
+    <file name="nomq_construimos.css" crc="4165549946" ref="construimos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="museutils.js" crc="163421577" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="museconfig.js" crc="36584860" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="webpro.js" crc="3848665353" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="require.js" crc="244322403" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="form_check.php" crc="158155501" ref="contactanos"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contactanos"/>
+    <file name="form_process.php" crc="4078697226" ref="contactanos"/>
+    <file name="form-u2069.php" crc="489185373" ref="contactanos"/>
+  </folder>
+  <folder name="images">
+    <file name="logo ms.jpg" crc="3840676288" seo="true" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="encabezado ms.jpg" crc="3908594527" seo="true" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="u568-6.png" crc="113745304" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="dsc00419.jpg" crc="287572669" seo="true" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="blank.gif" crc="4208392903" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="dsc00421.jpg" crc="55049034" seo="true" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="dsc00422.jpg" crc="453400124" seo="true" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="dsc00423.jpg" crc="502830631" seo="true" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="loading.gif" crc="3815509949" ref="index:diseñamos:construimos:remodelamos:reparamos"/>
+    <file name="u1385-4.png" crc="4227064744" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="fondo1.jpg" crc="39654467" seo="true" ref="index:diseñamos:construimos:remodelamos:reparamos:contactanos"/>
+    <file name="cimg5404.jpg" crc="267119858" seo="true" ref="index"/>
+    <file name="fondo1646x413.jpg" crc="95125610" seo="true" ref="index"/>
+    <file name="cimg5404515x387.jpg" crc="4084773865" seo="true" ref="index"/>
+    <file name="fondo1352x225.jpg" crc="3948910078" seo="true" ref="index"/>
+    <file name="cimg5404286x215.jpg" crc="4167830457" seo="true" ref="index"/>
+    <file name="dsc00304.jpg" crc="290471174" seo="true" ref="diseñamos"/>
+    <file name="dsc03793-crop-u676.jpg" crc="4229433613" ref="diseñamos"/>
+    <file name="dsc00199.jpg" crc="3798673665" seo="true" ref="diseñamos"/>
+    <file name="honorarios de planificación.jpg" crc="3862546671" seo="true" ref="diseñamos"/>
+    <file name="dsc00304322x242.jpg" crc="4169587579" seo="true" ref="diseñamos"/>
+    <file name="dsc03793-crop-u6762.jpg" crc="210294053" ref="diseñamos"/>
+    <file name="dsc00199322x241.jpg" crc="4210736380" seo="true" ref="diseñamos"/>
+    <file name="dsc00304181x136.jpg" crc="4111460386" seo="true" ref="diseñamos"/>
+    <file name="dsc03793-crop-u6763.jpg" crc="313254209" ref="diseñamos"/>
+    <file name="dsc00199176x132.jpg" crc="3957820034" seo="true" ref="diseñamos"/>
+    <file name="dsc00305.jpg" crc="4064482987" seo="true" ref="construimos"/>
+    <file name="dscf2460.jpg" crc="141191523" seo="true" ref="construimos"/>
+    <file name="honorarios de construcción1.jpg" crc="3841994311" seo="true" ref="construimos"/>
+    <file name="dsc00305332x249.jpg" crc="465396112" seo="true" ref="construimos"/>
+    <file name="dscf2460334x249.jpg" crc="4001854604" seo="true" ref="construimos"/>
+    <file name="dsc00305182x137.jpg" crc="4074726009" seo="true" ref="construimos"/>
+    <file name="dscf2460177x132.jpg" crc="1923429" seo="true" ref="construimos"/>
+    <file name="img-20170411-wa0001-crop-u802.jpg" crc="4262897082" ref="remodelamos"/>
+    <file name="img-20170411-wa0009-crop-u1453.jpg" crc="4202083469" ref="remodelamos"/>
+    <file name="img-20170411-wa0011-crop-u1473.jpg" crc="3924075767" ref="remodelamos"/>
+    <file name="img-20170411-wa0014.jpg" crc="4212666583" seo="true" ref="remodelamos"/>
+    <file name="img-20170411-wa0016-crop-u1513.jpg" crc="3928644742" ref="remodelamos"/>
+    <file name="img-20170411-wa0022-crop-u822.jpg" crc="433953778" ref="remodelamos"/>
+    <file name="img-20170411-wa0023-crop-u1552.jpg" crc="4113402085" ref="remodelamos"/>
+    <file name="img-20170411-wa0001-crop-u8022.jpg" crc="26492476" ref="remodelamos"/>
+    <file name="img-20170411-wa0009-crop-u14532.jpg" crc="322078307" ref="remodelamos"/>
+    <file name="img-20170411-wa0011-crop-u14732.jpg" crc="389073501" ref="remodelamos"/>
+    <file name="img-20170411-wa0014-crop-u1493.jpg" crc="454159620" ref="remodelamos"/>
+    <file name="img-20170411-wa0016-crop-u15132.jpg" crc="151813732" ref="remodelamos"/>
+    <file name="img-20170411-wa0022-crop-u8222.jpg" crc="513652732" ref="remodelamos"/>
+    <file name="img-20170411-wa0023-crop-u15522.jpg" crc="66395199" ref="remodelamos"/>
+    <file name="img-20170411-wa0001-crop-u8023.jpg" crc="202917335" ref="remodelamos"/>
+    <file name="img-20170411-wa0009-crop-u14533.jpg" crc="276254629" ref="remodelamos"/>
+    <file name="img-20170411-wa0011-crop-u14733.jpg" crc="3932839233" ref="remodelamos"/>
+    <file name="img-20170411-wa0014-crop-u14932.jpg" crc="4108203313" ref="remodelamos"/>
+    <file name="img-20170411-wa0016-crop-u15133.jpg" crc="3961739068" ref="remodelamos"/>
+    <file name="img-20170411-wa0022-crop-u8223.jpg" crc="3877482108" ref="remodelamos"/>
+    <file name="img-20170411-wa0023-crop-u15523.jpg" crc="4136666283" ref="remodelamos"/>
+    <file name="img-20170411-wa0003.jpg" crc="473593039" seo="true" ref="reparamos"/>
+    <file name="img-20170411-wa0006-crop-u1613.jpg" crc="3795476472" ref="reparamos"/>
+    <file name="img-20170411-wa0007-crop-u1633.jpg" crc="3992051395" ref="reparamos"/>
+    <file name="img-20170411-wa0018-crop-u1653.jpg" crc="22845732" ref="reparamos"/>
+    <file name="img-20170411-wa0015-crop-u906.jpg" crc="3852812161" ref="reparamos"/>
+    <file name="img-20170411-wa0020.jpg" crc="223166966" seo="true" ref="reparamos"/>
+    <file name="img-20170411-wa0021-crop-u1719.jpg" crc="339143784" ref="reparamos"/>
+    <file name="img-20170411-wa0003394x236.jpg" crc="4294808226" seo="true" ref="reparamos"/>
+    <file name="img-20170411-wa0006-crop-u16132.jpg" crc="313803393" ref="reparamos"/>
+    <file name="img-20170411-wa0007-crop-u16332.jpg" crc="4207111134" ref="reparamos"/>
+    <file name="img-20170411-wa0018-crop-u16532.jpg" crc="20646704" ref="reparamos"/>
+    <file name="img-20170411-wa0015-crop-u9062.jpg" crc="4233221883" ref="reparamos"/>
+    <file name="img-20170411-wa0020394x236.jpg" crc="4284283018" seo="true" ref="reparamos"/>
+    <file name="img-20170411-wa0021-crop-u17192.jpg" crc="513189434" ref="reparamos"/>
+    <file name="img-20170411-wa0003217x130.jpg" crc="4087390983" seo="true" ref="reparamos"/>
+    <file name="img-20170411-wa0006-crop-u16133.jpg" crc="3877072257" ref="reparamos"/>
+    <file name="img-20170411-wa0007-crop-u16333.jpg" crc="3998870267" ref="reparamos"/>
+    <file name="img-20170411-wa0018-crop-u16533.jpg" crc="130477891" ref="reparamos"/>
+    <file name="img-20170411-wa0015-crop-u9063.jpg" crc="3785425756" ref="reparamos"/>
+    <file name="img-20170411-wa0020-crop-u1699.jpg" crc="459349380" ref="reparamos"/>
+    <file name="img-20170411-wa0021-crop-u17193.jpg" crc="3996164168" ref="reparamos"/>
+  </folder>
+  <file name="index.html" crc="104003597" seo="true" mt="1492707796079" redirect="true"/>
+  <file name="diseñamos.html" crc="3866858212" seo="true" mt="1492707796082" redirect="true"/>
+  <file name="construimos.html" crc="247473432" seo="true" mt="1492707796079" redirect="true"/>
+  <file name="remodelamos.html" crc="3995424689" seo="true" mt="1492707796079" redirect="true"/>
+  <file name="reparamos.html" crc="4261173408" seo="true" mt="1492707796079" redirect="true"/>
+  <file name="contactanos.html" crc="216282903" seo="true" mt="1492707796079" redirect="true"/>
+</manifest>
